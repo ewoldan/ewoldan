@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Emilia! 👋
 
-<!--
-**ewoldan/ewoldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hey, I’m someone who loves solving problems and making things run smoother. I’ve worked across program management, business analytics, and systems stuff—basically helping teams work smarter, not harder. I’m all about turning messy data into useful insights and making sure business and tech actually speak the same language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+
+- **[BA Review Insights: Web Scraping for Customer Sentiment](https://github.com/ewoldan/Web-Scraping-for-Customer-Sentiment.git)**  
+  *Developed a web scraping pipeline using BeautifulSoup to extract customer reviews for British Airways. Cleaned and processed the data with Pandas, stored it in a relational database, and created an interactive Tableau dashboard to visualize customer sentiment, trends, and service insights. This project showcases skills in data collection, cleaning, database management, and visualization.*
+
+## Skills & Tools
+
+- **Program Management:** Agile methodologies, project planning, stakeholder communication
+- **Business Analytics:** Data analysis, reporting, KPI tracking
+- **Workflow Optimization:** Process improvement, automation
+- **Enterprise Systems:** ERP solutions, system integration
+
+## Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/emilia-woldan](https://www.linkedin.com/in/emilia-woldan/)
+- **Email:** [emiliawoldann@gmail.com]
+
+---
+
+*Let's collaborate to turn data into actionable insights and bridge the gap between business and technology!*

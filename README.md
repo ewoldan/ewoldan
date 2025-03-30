@@ -26,4 +26,4 @@ I’m someone who loves solving problems and making things run smoother. I’ve 
 
 ---
 
-*Let's collaborate to turn data into actionable insights and bridge the gap between business and technology!*
+*Let's collaborate!*

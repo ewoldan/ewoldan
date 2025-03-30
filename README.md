@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m someone who loves solving problems and making things run smoother. I’ve worked across program management, business analytics, and systems stuff—basically helping teams work smarter, not harder. I’m all about turning messy data into useful insights and making sure business and tech actually speak the same language.
+I’m someone who loves solving problems and making things run smoother. I’ve worked across program management, business analytics, and systems design, bringing structure to projects and clarity through data. I’m all about making sure business and tech actually speak the same language. I thrive on the challenge of bringing order to chaos, whether that’s in data, systems, or projects.
 
 ## Key Projects
 

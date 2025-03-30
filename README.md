@@ -22,7 +22,7 @@ I’m someone who loves solving problems and making things run smoother. I’ve 
 ## Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/emilia-woldan](https://www.linkedin.com/in/emilia-woldan/)
-- **Email:** [emiliawoldann@gmail.com]
+- **Email:** emiliawoldann@gmail.com
 
 ---
 

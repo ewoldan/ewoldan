@@ -11,8 +11,7 @@ I’m someone who loves solving problems and making things run smoother. I’ve 
   
 [Explore the Dashboard](https://public.tableau.com/app/profile/emilia.woldan6280/viz/CustomerExperienceDashboardforBritishAirlines/BASummary)
   
- <img width="999" alt="image" src="https://github.com/user-attachments/assets/f8397a8b-9f63-4610-8d8f-73156cdb02c2" />
-
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/6995f401-4c03-40ec-8a57-40e53fbdb0e2" />
 
 - **[Customer Segmentation & Banking Analytics](https://github.com/ewoldan/Customer-Segmentation-Banking-Analytics)**  
   *This project uses SQL and Python to analyze customer data, improving marketing, optimizing credit policies, and enhancing risk management in financial services.*

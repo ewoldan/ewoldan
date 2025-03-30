@@ -6,7 +6,7 @@ I’m someone who loves solving problems and making things run smoother. I’ve 
 
 ## Key Projects
 
-- **[British Airways Customer Reviews Sentiment Analysis](https://github.com/ewoldan/Web-Scraping-for-Customer-Sentiment.git)**  
+- **[British Airways Customer Reviews & Sentiment Analysis](https://github.com/ewoldan/Web-Scraping-for-Customer-Sentiment.git)**  
   *Developed a web scraping pipeline using BeautifulSoup to extract customer reviews for British Airways. Cleaned and processed the data with Pandas, stored it in a relational database, and created an interactive Tableau dashboard to visualize customer sentiment, trends, and service insights. This project showcases skills in data collection, cleaning, database management, and visualization.*
 
 - **[Customer Segmentation & Banking Analytics](https://github.com/ewoldan/Customer-Segmentation-Banking-Analytics)**  

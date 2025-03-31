@@ -23,6 +23,7 @@ I’m someone who loves solving problems and making things run smoother. I’ve 
 
 ## Skills & Tools
 
+- **Data & Analytics:** SQL, Python, Tableau, data visualization
 - **Program Management:** Agile methodologies, project planning, stakeholder communication
 - **Business Analytics:** Data analysis, reporting, KPI tracking
 - **Workflow Optimization:** Process improvement, automation
